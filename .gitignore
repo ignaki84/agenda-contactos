@@ -1,0 +1,13 @@
+# Artefactos de compilación de Maven
+/target/
+*.class
+
+# Archivos de configuración local de VS Code y entorno
+/.vscode/
+/.settings/
+.classpath
+.project
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
