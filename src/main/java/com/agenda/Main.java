@@ -1,5 +1,9 @@
 package com.agenda;
 
+/**
+ * Bloque principal de la aplicación de agenda de contactos.
+ * Main
+ */
 public class Main {
     public static void main(String[] args) {
         GestorAgenda agenda = new GestorAgenda();
